@@ -7,6 +7,7 @@ https://pan.baidu.com/s/19TqZQBsgCqrgkrmgAkkpUg?pwd=bpso
 
 
 If you use our images, please cite our paper:
+```
 @ARTICLE{10578314,
   author={Zhou, Shijun and Zhang, Zhen and Liu, Yajing and Tian, Jiandong},
   journal={IEEE Transactions on Computational Imaging}, 
